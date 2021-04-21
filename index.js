@@ -1,1 +1,4 @@
-document.getElementById("root").innerHTML="Text Update here"
+const  update=()=>{
+    document.getElementById("root").innerText=
+    "Text Update here";
+}
